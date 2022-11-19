@@ -1,4 +1,4 @@
-# week-3-passwordgenerator
+# week-3-password-generator
 
 Customer asked for a page that created a password using random characters.
 
