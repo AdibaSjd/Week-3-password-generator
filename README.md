@@ -37,8 +37,7 @@ My main issue was ensuring my syntax in java script was compatible with what I w
 ## General info
 This is a page developed through HTML and later styled through CSS. The main functionality of the page comes from Java Script which allows for the interactivity by the user into the page to randomly generate a password. The user is given a list of questions to selected from to generate their ideal random password. However, there are set criteria that the user will have to meet to be able to set up a password such as ensuring that the password length is greater than 8, less than 128, that they pick at least one character type and that when entering a number into the generator it is done using numeric characters. 
 ## Page link
-
-
+https://adibasjd.github.io/Week-3-password-generator/
 
 
 ## MY WEB PAGE
